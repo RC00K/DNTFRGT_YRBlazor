@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BLZ.Client
+build_property.RootNamespace = BLZ.Client
+build_property.ProjectDir = /workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /workspaces/DontForget_YourBlazor/BLZ/BLZ.Client
+build_property._RazorSourceGeneratorDebug = 
+
+[/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/Components/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Ib21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/Pages/ReportError.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVwb3J0RXJyb3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/Pages/CustomNotFound.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tTm90Rm91bmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-q38obdp7nm
+
+[/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-0bh48znsvw
+
+[/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-rr9k6b28md

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BLZ", "BLZ", "{380F8D17-323C-4868-BE7E-CE723E2EC669}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLZ.Server", "BLZ\BLZ.Server\BLZ.Server.csproj", "{27C591E4-5609-4832-8DF9-C7A7E8DA93C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLZ.Client", "BLZ\BLZ.Client\BLZ.Client.csproj", "{65D2E105-8479-4B61-9E5D-4DC7EF1EBDDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27C591E4-5609-4832-8DF9-C7A7E8DA93C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C591E4-5609-4832-8DF9-C7A7E8DA93C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C591E4-5609-4832-8DF9-C7A7E8DA93C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C591E4-5609-4832-8DF9-C7A7E8DA93C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D2E105-8479-4B61-9E5D-4DC7EF1EBDDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D2E105-8479-4B61-9E5D-4DC7EF1EBDDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D2E105-8479-4B61-9E5D-4DC7EF1EBDDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D2E105-8479-4B61-9E5D-4DC7EF1EBDDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{27C591E4-5609-4832-8DF9-C7A7E8DA93C1} = {380F8D17-323C-4868-BE7E-CE723E2EC669}
+		{65D2E105-8479-4B61-9E5D-4DC7EF1EBDDB} = {380F8D17-323C-4868-BE7E-CE723E2EC669}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D76BBDA-BDA8-4A00-8618-7D0583A4ABB1}
+	EndGlobalSection
+EndGlobal

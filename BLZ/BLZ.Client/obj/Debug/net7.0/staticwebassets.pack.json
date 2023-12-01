@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/obj/Debug/net7.0/build-gz/jLfX9OUs.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/obj/Debug/net7.0/scopedcss/bundle/BLZ.Client.styles.css",
+      "PackagePath": "staticwebassets/BLZ.Client.styles.css"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/workspaces/DontForget_YourBlazor/BLZ/BLZ.Client/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.BLZ.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.BLZ.Client.props",
+      "PackagePath": "build\\BLZ.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BLZ.Client.props",
+      "PackagePath": "buildMultiTargeting\\BLZ.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BLZ.Client.props",
+      "PackagePath": "buildTransitive\\BLZ.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
